@@ -1,0 +1,1058 @@
+[
+ {
+  "hierarchy": [
+   [
+    [
+     [
+      "allenkey0",
+      "allenkey1",
+      "allenkey2"
+     ],
+     [
+      "wrench0",
+      "wrench1",
+      "wrench2"
+     ],
+     [
+      "socketwrench0",
+      "socketwrench1",
+      "socketwrench2"
+     ]
+    ],
+    [
+     [
+      "cutter0",
+      "cutter1",
+      "cutter2"
+     ],
+     [
+      "plier0",
+      "plier1",
+      "plier2"
+     ],
+     [
+      "longplier0",
+      "longplier1",
+      "longplier2"
+     ]
+    ],
+    [
+     [
+      "torxscrewbit0",
+      "torxscrewbit1",
+      "torxscrewbit2"
+     ],
+     [
+      "pointedscrewbit0",
+      "pointedscrewbit1",
+      "pointedscrewbit2"
+     ],
+     [
+      "philipsscrewbit0",
+      "philipsscrewbit1",
+      "philipsscrewbit2"
+     ]
+    ]
+   ],
+   [
+    [
+     [
+      "fijiapple0",
+      "fijiapple1",
+      "fijiapple2"
+     ],
+     [
+      "goldenapple0",
+      "goldenapple1",
+      "goldenapple2"
+     ],
+     [
+      "reddeliciuosapple0",
+      "reddeliciuosapple1",
+      "reddeliciuosapple2"
+     ]
+    ],
+    [
+     [
+      "lemon0",
+      "lemon1",
+      "lemon2"
+     ],
+     [
+      "orange0",
+      "orange1",
+      "orange2"
+     ],
+     [
+      "tangerine0",
+      "tangerine1",
+      "tangerine2"
+     ]
+    ],
+    [
+     [
+      "pearconference0",
+      "pearconference1",
+      "pearconference2"
+     ],
+     [
+      "pearsantalucia0",
+      "pearsantalucia1",
+      "pearsantalucia2"
+     ],
+     [
+      "pearwilliams0",
+      "pearwilliams1",
+      "pearwilliams2"
+     ]
+    ]
+   ],
+   [
+    [
+     [
+      "chino0",
+      "chino1",
+      "chino2"
+     ],
+     [
+      "jeans0",
+      "jeans1",
+      "jeans2"
+     ],
+     [
+      "shorts0",
+      "shorts1",
+      "shorts2"
+     ]
+    ],
+    [
+     [
+      "hoodie0",
+      "hoodie1",
+      "hoodie2"
+     ],
+     [
+      "tshirt0",
+      "tshirt1",
+      "tshirt2"
+     ],
+     [
+      "shirt0",
+      "shirt1",
+      "shirt2"
+     ]
+    ],
+    [
+     [
+      "longsock0",
+      "longsock1",
+      "longsock2"
+     ],
+     [
+      "shortsock0",
+      "shortsock1",
+      "shortsock2"
+     ],
+     [
+      "sportsock0",
+      "sportsock1",
+      "sportsock2"
+     ]
+    ]
+   ]
+  ]
+ },
+ [
+  {
+   "id": 0,
+   "name": "allenkey0",
+   "paths": [
+    "dataset/allenkey0/DSC_0021.MOV/data.npy.lz4",
+    "dataset/allenkey0/DSC_0022.MOV/data.npy.lz4",
+    "dataset/allenkey0/DSC_0023.MOV/data.npy.lz4",
+    "dataset/allenkey0/DSC_0024.MOV/data.npy.lz4",
+    "dataset/allenkey0/DSC_0025.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 1,
+   "name": "allenkey1",
+   "paths": [
+    "dataset/allenkey1/DSC_0026.MOV/data.npy.lz4",
+    "dataset/allenkey1/DSC_0027.MOV/data.npy.lz4",
+    "dataset/allenkey1/DSC_0028.MOV/data.npy.lz4",
+    "dataset/allenkey1/DSC_0029.MOV/data.npy.lz4",
+    "dataset/allenkey1/DSC_0030.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "allenkey2",
+   "paths": [
+    "dataset/allenkey2/DSC_0267.MOV/data.npy.lz4",
+    "dataset/allenkey2/DSC_0268.MOV/data.npy.lz4",
+    "dataset/allenkey2/DSC_0269.MOV/data.npy.lz4",
+    "dataset/allenkey2/DSC_0270.MOV/data.npy.lz4",
+    "dataset/allenkey2/DSC_0271.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "chino0",
+   "paths": [
+    "dataset/chino0/DSC_0198.MOV/data.npy.lz4",
+    "dataset/chino0/DSC_0199.MOV/data.npy.lz4",
+    "dataset/chino0/DSC_0200.MOV/data.npy.lz4",
+    "dataset/chino0/DSC_0201.MOV/data.npy.lz4",
+    "dataset/chino0/DSC_0202.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "chino1",
+   "paths": [
+    "dataset/chino1/DSC_0203.MOV/data.npy.lz4",
+    "dataset/chino1/DSC_0204.MOV/data.npy.lz4",
+    "dataset/chino1/DSC_0205.MOV/data.npy.lz4",
+    "dataset/chino1/DSC_0206.MOV/data.npy.lz4",
+    "dataset/chino1/DSC_0207.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "chino2",
+   "paths": [
+    "dataset/chino2/DSC_0208.MOV/data.npy.lz4",
+    "dataset/chino2/DSC_0209.MOV/data.npy.lz4",
+    "dataset/chino2/DSC_0210.MOV/data.npy.lz4",
+    "dataset/chino2/DSC_0211.MOV/data.npy.lz4",
+    "dataset/chino2/DSC_0212.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "cutter0",
+   "paths": [
+    "dataset/cutter0/DSC_0006.MOV/data.npy.lz4",
+    "dataset/cutter0/DSC_0007.MOV/data.npy.lz4",
+    "dataset/cutter0/DSC_0008.MOV/data.npy.lz4",
+    "dataset/cutter0/DSC_0009.MOV/data.npy.lz4",
+    "dataset/cutter0/DSC_0010.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "cutter1",
+   "paths": [
+    "dataset/cutter1/DSC_0097.MOV/data.npy.lz4",
+    "dataset/cutter1/DSC_0098.MOV/data.npy.lz4",
+    "dataset/cutter1/DSC_0099.MOV/data.npy.lz4",
+    "dataset/cutter1/DSC_0100.MOV/data.npy.lz4",
+    "dataset/cutter1/DSC_0101.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "cutter2",
+   "paths": [
+    "dataset/cutter2/DSC_0207.MOV/data.npy.lz4",
+    "dataset/cutter2/DSC_0208.MOV/data.npy.lz4",
+    "dataset/cutter2/DSC_0209.MOV/data.npy.lz4",
+    "dataset/cutter2/DSC_0210.MOV/data.npy.lz4",
+    "dataset/cutter2/DSC_0211.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "fijiapple0",
+   "paths": [
+    "dataset/fijiapple0/DSC_0077.MOV/data.npy.lz4",
+    "dataset/fijiapple0/DSC_0078.MOV/data.npy.lz4",
+    "dataset/fijiapple0/DSC_0079.MOV/data.npy.lz4",
+    "dataset/fijiapple0/DSC_0080.MOV/data.npy.lz4",
+    "dataset/fijiapple0/DSC_0081.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "fijiapple1",
+   "paths": [
+    "dataset/fijiapple1/DSC_0087.MOV/data.npy.lz4",
+    "dataset/fijiapple1/DSC_0088.MOV/data.npy.lz4",
+    "dataset/fijiapple1/DSC_0089.MOV/data.npy.lz4",
+    "dataset/fijiapple1/DSC_0090.MOV/data.npy.lz4",
+    "dataset/fijiapple1/DSC_0091.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "fijiapple2",
+   "paths": [
+    "dataset/fijiapple2/DSC_0082.MOV/data.npy.lz4",
+    "dataset/fijiapple2/DSC_0083.MOV/data.npy.lz4",
+    "dataset/fijiapple2/DSC_0084.MOV/data.npy.lz4",
+    "dataset/fijiapple2/DSC_0085.MOV/data.npy.lz4",
+    "dataset/fijiapple2/DSC_0086.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "goldenapple0",
+   "paths": [
+    "dataset/goldenapple0/DSC_0192.MOV/data.npy.lz4",
+    "dataset/goldenapple0/DSC_0193.MOV/data.npy.lz4",
+    "dataset/goldenapple0/DSC_0194.MOV/data.npy.lz4",
+    "dataset/goldenapple0/DSC_0195.MOV/data.npy.lz4",
+    "dataset/goldenapple0/DSC_0196.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "goldenapple1",
+   "paths": [
+    "dataset/goldenapple1/DSC_0197.MOV/data.npy.lz4",
+    "dataset/goldenapple1/DSC_0198.MOV/data.npy.lz4",
+    "dataset/goldenapple1/DSC_0199.MOV/data.npy.lz4",
+    "dataset/goldenapple1/DSC_0200.MOV/data.npy.lz4",
+    "dataset/goldenapple1/DSC_0201.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "goldenapple2",
+   "paths": [
+    "dataset/goldenapple2/DSC_0202.MOV/data.npy.lz4",
+    "dataset/goldenapple2/DSC_0203.MOV/data.npy.lz4",
+    "dataset/goldenapple2/DSC_0204.MOV/data.npy.lz4",
+    "dataset/goldenapple2/DSC_0205.MOV/data.npy.lz4",
+    "dataset/goldenapple2/DSC_0206.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "hoodie0",
+   "paths": [
+    "dataset/hoodie0/DSC_0168.MOV/data.npy.lz4",
+    "dataset/hoodie0/DSC_0169.MOV/data.npy.lz4",
+    "dataset/hoodie0/DSC_0170.MOV/data.npy.lz4",
+    "dataset/hoodie0/DSC_0171.MOV/data.npy.lz4",
+    "dataset/hoodie0/DSC_0172.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 16,
+   "name": "hoodie1",
+   "paths": [
+    "dataset/hoodie1/DSC_0173.MOV/data.npy.lz4",
+    "dataset/hoodie1/DSC_0174.MOV/data.npy.lz4",
+    "dataset/hoodie1/DSC_0175.MOV/data.npy.lz4",
+    "dataset/hoodie1/DSC_0176.MOV/data.npy.lz4",
+    "dataset/hoodie1/DSC_0177.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 17,
+   "name": "hoodie2",
+   "paths": [
+    "dataset/hoodie2/DSC_0178.MOV/data.npy.lz4",
+    "dataset/hoodie2/DSC_0179.MOV/data.npy.lz4",
+    "dataset/hoodie2/DSC_0180.MOV/data.npy.lz4",
+    "dataset/hoodie2/DSC_0181.MOV/data.npy.lz4",
+    "dataset/hoodie2/DSC_0182.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 18,
+   "name": "jeans0",
+   "paths": [
+    "dataset/jeans0/DSC_0213.MOV/data.npy.lz4",
+    "dataset/jeans0/DSC_0214.MOV/data.npy.lz4",
+    "dataset/jeans0/DSC_0215.MOV/data.npy.lz4",
+    "dataset/jeans0/DSC_0216.MOV/data.npy.lz4",
+    "dataset/jeans0/DSC_0217.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 19,
+   "name": "jeans1",
+   "paths": [
+    "dataset/jeans1/DSC_0218.MOV/data.npy.lz4",
+    "dataset/jeans1/DSC_0219.MOV/data.npy.lz4",
+    "dataset/jeans1/DSC_0220.MOV/data.npy.lz4",
+    "dataset/jeans1/DSC_0221.MOV/data.npy.lz4",
+    "dataset/jeans1/DSC_0222.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 20,
+   "name": "jeans2",
+   "paths": [
+    "dataset/jeans2/DSC_0223.MOV/data.npy.lz4",
+    "dataset/jeans2/DSC_0224.MOV/data.npy.lz4",
+    "dataset/jeans2/DSC_0225.MOV/data.npy.lz4",
+    "dataset/jeans2/DSC_0226.MOV/data.npy.lz4",
+    "dataset/jeans2/DSC_0227.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "lemon0",
+   "paths": [
+    "dataset/lemon0/DSC_0147.MOV/data.npy.lz4",
+    "dataset/lemon0/DSC_0148.MOV/data.npy.lz4",
+    "dataset/lemon0/DSC_0149.MOV/data.npy.lz4",
+    "dataset/lemon0/DSC_0150.MOV/data.npy.lz4",
+    "dataset/lemon0/DSC_0151.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "lemon1",
+   "paths": [
+    "dataset/lemon1/DSC_0152.MOV/data.npy.lz4",
+    "dataset/lemon1/DSC_0153.MOV/data.npy.lz4",
+    "dataset/lemon1/DSC_0154.MOV/data.npy.lz4",
+    "dataset/lemon1/DSC_0155.MOV/data.npy.lz4",
+    "dataset/lemon1/DSC_0156.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "lemon2",
+   "paths": [
+    "dataset/lemon2/DSC_0157.MOV/data.npy.lz4",
+    "dataset/lemon2/DSC_0158.MOV/data.npy.lz4",
+    "dataset/lemon2/DSC_0159.MOV/data.npy.lz4",
+    "dataset/lemon2/DSC_0160.MOV/data.npy.lz4",
+    "dataset/lemon2/DSC_0161.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "longplier0",
+   "paths": [
+    "dataset/longplier0/DSC_0092.MOV/data.npy.lz4",
+    "dataset/longplier0/DSC_0093.MOV/data.npy.lz4",
+    "dataset/longplier0/DSC_0094.MOV/data.npy.lz4",
+    "dataset/longplier0/DSC_0095.MOV/data.npy.lz4",
+    "dataset/longplier0/DSC_0096.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "longplier1",
+   "paths": [
+    "dataset/longplier1/DSC_0001.MOV/data.npy.lz4",
+    "dataset/longplier1/DSC_0002.MOV/data.npy.lz4",
+    "dataset/longplier1/DSC_0003.MOV/data.npy.lz4",
+    "dataset/longplier1/DSC_0004.MOV/data.npy.lz4",
+    "dataset/longplier1/DSC_0005.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 26,
+   "name": "longplier2",
+   "paths": [
+    "dataset/longplier2/DSC_0212.MOV/data.npy.lz4",
+    "dataset/longplier2/DSC_0213.MOV/data.npy.lz4",
+    "dataset/longplier2/DSC_0214.MOV/data.npy.lz4",
+    "dataset/longplier2/DSC_0215.MOV/data.npy.lz4",
+    "dataset/longplier2/DSC_0216.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "longsock0",
+   "paths": [
+    "dataset/longsock0/DSC_0243.MOV/data.npy.lz4",
+    "dataset/longsock0/DSC_0244.MOV/data.npy.lz4",
+    "dataset/longsock0/DSC_0245.MOV/data.npy.lz4",
+    "dataset/longsock0/DSC_0246.MOV/data.npy.lz4",
+    "dataset/longsock0/DSC_0247.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "longsock1",
+   "paths": [
+    "dataset/longsock1/DSC_0248.MOV/data.npy.lz4",
+    "dataset/longsock1/DSC_0249.MOV/data.npy.lz4",
+    "dataset/longsock1/DSC_0250.MOV/data.npy.lz4",
+    "dataset/longsock1/DSC_0251.MOV/data.npy.lz4",
+    "dataset/longsock1/DSC_0252.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 29,
+   "name": "longsock2",
+   "paths": [
+    "dataset/longsock2/DSC_0253.MOV/data.npy.lz4",
+    "dataset/longsock2/DSC_0254.MOV/data.npy.lz4",
+    "dataset/longsock2/DSC_0255.MOV/data.npy.lz4",
+    "dataset/longsock2/DSC_0256.MOV/data.npy.lz4",
+    "dataset/longsock2/DSC_0257.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "orange0",
+   "paths": [
+    "dataset/orange0/DSC_0132.MOV/data.npy.lz4",
+    "dataset/orange0/DSC_0133.MOV/data.npy.lz4",
+    "dataset/orange0/DSC_0134.MOV/data.npy.lz4",
+    "dataset/orange0/DSC_0135.MOV/data.npy.lz4",
+    "dataset/orange0/DSC_0136.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 31,
+   "name": "orange1",
+   "paths": [
+    "dataset/orange1/DSC_0137.MOV/data.npy.lz4",
+    "dataset/orange1/DSC_0138.MOV/data.npy.lz4",
+    "dataset/orange1/DSC_0139.MOV/data.npy.lz4",
+    "dataset/orange1/DSC_0140.MOV/data.npy.lz4",
+    "dataset/orange1/DSC_0141.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "orange2",
+   "paths": [
+    "dataset/orange2/DSC_0142.MOV/data.npy.lz4",
+    "dataset/orange2/DSC_0143.MOV/data.npy.lz4",
+    "dataset/orange2/DSC_0144.MOV/data.npy.lz4",
+    "dataset/orange2/DSC_0145.MOV/data.npy.lz4",
+    "dataset/orange2/DSC_0146.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 33,
+   "name": "pearconference0",
+   "paths": [
+    "dataset/pearconference0/DSC_0252.MOV/data.npy.lz4",
+    "dataset/pearconference0/DSC_0253.MOV/data.npy.lz4",
+    "dataset/pearconference0/DSC_0254.MOV/data.npy.lz4",
+    "dataset/pearconference0/DSC_0255.MOV/data.npy.lz4",
+    "dataset/pearconference0/DSC_0256.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "pearconference1",
+   "paths": [
+    "dataset/pearconference1/DSC_0257.MOV/data.npy.lz4",
+    "dataset/pearconference1/DSC_0258.MOV/data.npy.lz4",
+    "dataset/pearconference1/DSC_0259.MOV/data.npy.lz4",
+    "dataset/pearconference1/DSC_0260.MOV/data.npy.lz4",
+    "dataset/pearconference1/DSC_0261.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "pearconference2",
+   "paths": [
+    "dataset/pearconference2/DSC_0262.MOV/data.npy.lz4",
+    "dataset/pearconference2/DSC_0263.MOV/data.npy.lz4",
+    "dataset/pearconference2/DSC_0264.MOV/data.npy.lz4",
+    "dataset/pearconference2/DSC_0265.MOV/data.npy.lz4",
+    "dataset/pearconference2/DSC_0266.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 36,
+   "name": "pearsantalucia0",
+   "paths": [
+    "dataset/pearsantalucia0/DSC_0222.MOV/data.npy.lz4",
+    "dataset/pearsantalucia0/DSC_0223.MOV/data.npy.lz4",
+    "dataset/pearsantalucia0/DSC_0224.MOV/data.npy.lz4",
+    "dataset/pearsantalucia0/DSC_0225.MOV/data.npy.lz4",
+    "dataset/pearsantalucia0/DSC_0226.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "pearsantalucia1",
+   "paths": [
+    "dataset/pearsantalucia1/DSC_0227.MOV/data.npy.lz4",
+    "dataset/pearsantalucia1/DSC_0228.MOV/data.npy.lz4",
+    "dataset/pearsantalucia1/DSC_0229.MOV/data.npy.lz4",
+    "dataset/pearsantalucia1/DSC_0230.MOV/data.npy.lz4",
+    "dataset/pearsantalucia1/DSC_0231.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "pearsantalucia2",
+   "paths": [
+    "dataset/pearsantalucia2/DSC_0232.MOV/data.npy.lz4",
+    "dataset/pearsantalucia2/DSC_0233.MOV/data.npy.lz4",
+    "dataset/pearsantalucia2/DSC_0234.MOV/data.npy.lz4",
+    "dataset/pearsantalucia2/DSC_0235.MOV/data.npy.lz4",
+    "dataset/pearsantalucia2/DSC_0236.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "pearwilliams0",
+   "paths": [
+    "dataset/pearwilliams0/DSC_0237.MOV/data.npy.lz4",
+    "dataset/pearwilliams0/DSC_0238.MOV/data.npy.lz4",
+    "dataset/pearwilliams0/DSC_0239.MOV/data.npy.lz4",
+    "dataset/pearwilliams0/DSC_0240.MOV/data.npy.lz4",
+    "dataset/pearwilliams0/DSC_0241.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "pearwilliams1",
+   "paths": [
+    "dataset/pearwilliams1/DSC_0242.MOV/data.npy.lz4",
+    "dataset/pearwilliams1/DSC_0243.MOV/data.npy.lz4",
+    "dataset/pearwilliams1/DSC_0244.MOV/data.npy.lz4",
+    "dataset/pearwilliams1/DSC_0245.MOV/data.npy.lz4",
+    "dataset/pearwilliams1/DSC_0246.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "pearwilliams2",
+   "paths": [
+    "dataset/pearwilliams2/DSC_0247.MOV/data.npy.lz4",
+    "dataset/pearwilliams2/DSC_0248.MOV/data.npy.lz4",
+    "dataset/pearwilliams2/DSC_0249.MOV/data.npy.lz4",
+    "dataset/pearwilliams2/DSC_0250.MOV/data.npy.lz4",
+    "dataset/pearwilliams2/DSC_0251.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "philipsscrewbit0",
+   "paths": [
+    "dataset/philipsscrewbit0/DSC_0047.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit0/DSC_0048.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit0/DSC_0049.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit0/DSC_0050.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit0/DSC_0051.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "philipsscrewbit1",
+   "paths": [
+    "dataset/philipsscrewbit1/DSC_0052.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit1/DSC_0053.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit1/DSC_0054.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit1/DSC_0055.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit1/DSC_0056.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 44,
+   "name": "philipsscrewbit2",
+   "paths": [
+    "dataset/philipsscrewbit2/DSC_0057.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit2/DSC_0058.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit2/DSC_0059.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit2/DSC_0060.MOV/data.npy.lz4",
+    "dataset/philipsscrewbit2/DSC_0061.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "plier0",
+   "paths": [
+    "dataset/plier0/DSC_0217.MOV/data.npy.lz4",
+    "dataset/plier0/DSC_0218.MOV/data.npy.lz4",
+    "dataset/plier0/DSC_0219.MOV/data.npy.lz4",
+    "dataset/plier0/DSC_0220.MOV/data.npy.lz4",
+    "dataset/plier0/DSC_0221.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "plier1",
+   "paths": [
+    "dataset/plier1/DSC_0016.MOV/data.npy.lz4",
+    "dataset/plier1/DSC_0017.MOV/data.npy.lz4",
+    "dataset/plier1/DSC_0018.MOV/data.npy.lz4",
+    "dataset/plier1/DSC_0019.MOV/data.npy.lz4",
+    "dataset/plier1/DSC_0020.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "plier2",
+   "paths": [
+    "dataset/plier2/DSC_0272.MOV/data.npy.lz4",
+    "dataset/plier2/DSC_0273.MOV/data.npy.lz4",
+    "dataset/plier2/DSC_0274.MOV/data.npy.lz4",
+    "dataset/plier2/DSC_0275.MOV/data.npy.lz4",
+    "dataset/plier2/DSC_0276.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "pointedscrewbit0",
+   "paths": [
+    "dataset/pointedscrewbit0/DSC_0062.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit0/DSC_0063.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit0/DSC_0064.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit0/DSC_0065.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit0/DSC_0066.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "pointedscrewbit1",
+   "paths": [
+    "dataset/pointedscrewbit1/DSC_0067.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit1/DSC_0068.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit1/DSC_0069.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit1/DSC_0070.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit1/DSC_0071.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "pointedscrewbit2",
+   "paths": [
+    "dataset/pointedscrewbit2/DSC_0072.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit2/DSC_0073.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit2/DSC_0074.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit2/DSC_0075.MOV/data.npy.lz4",
+    "dataset/pointedscrewbit2/DSC_0076.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "reddeliciuosapple0",
+   "paths": [
+    "dataset/reddeliciuosapple0/DSC_0177.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple0/DSC_0178.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple0/DSC_0179.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple0/DSC_0180.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple0/DSC_0181.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "reddeliciuosapple1",
+   "paths": [
+    "dataset/reddeliciuosapple1/DSC_0182.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple1/DSC_0183.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple1/DSC_0184.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple1/DSC_0185.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple1/DSC_0186.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "reddeliciuosapple2",
+   "paths": [
+    "dataset/reddeliciuosapple2/DSC_0187.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple2/DSC_0188.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple2/DSC_0189.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple2/DSC_0190.MOV/data.npy.lz4",
+    "dataset/reddeliciuosapple2/DSC_0191.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 54,
+   "name": "shirt0",
+   "paths": [
+    "dataset/shirt0/DSC_0153.MOV/data.npy.lz4",
+    "dataset/shirt0/DSC_0154.MOV/data.npy.lz4",
+    "dataset/shirt0/DSC_0155.MOV/data.npy.lz4",
+    "dataset/shirt0/DSC_0156.MOV/data.npy.lz4",
+    "dataset/shirt0/DSC_0157.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 55,
+   "name": "shirt1",
+   "paths": [
+    "dataset/shirt1/DSC_0158.MOV/data.npy.lz4",
+    "dataset/shirt1/DSC_0159.MOV/data.npy.lz4",
+    "dataset/shirt1/DSC_0160.MOV/data.npy.lz4",
+    "dataset/shirt1/DSC_0161.MOV/data.npy.lz4",
+    "dataset/shirt1/DSC_0162.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 56,
+   "name": "shirt2",
+   "paths": [
+    "dataset/shirt2/DSC_0163.MOV/data.npy.lz4",
+    "dataset/shirt2/DSC_0164.MOV/data.npy.lz4",
+    "dataset/shirt2/DSC_0165.MOV/data.npy.lz4",
+    "dataset/shirt2/DSC_0166.MOV/data.npy.lz4",
+    "dataset/shirt2/DSC_0167.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 57,
+   "name": "shorts0",
+   "paths": [
+    "dataset/shorts0/DSC_0228.MOV/data.npy.lz4",
+    "dataset/shorts0/DSC_0229.MOV/data.npy.lz4",
+    "dataset/shorts0/DSC_0230.MOV/data.npy.lz4",
+    "dataset/shorts0/DSC_0231.MOV/data.npy.lz4",
+    "dataset/shorts0/DSC_0232.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 58,
+   "name": "shorts1",
+   "paths": [
+    "dataset/shorts1/DSC_0233.MOV/data.npy.lz4",
+    "dataset/shorts1/DSC_0234.MOV/data.npy.lz4",
+    "dataset/shorts1/DSC_0235.MOV/data.npy.lz4",
+    "dataset/shorts1/DSC_0236.MOV/data.npy.lz4",
+    "dataset/shorts1/DSC_0237.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 59,
+   "name": "shorts2",
+   "paths": [
+    "dataset/shorts2/DSC_0238.MOV/data.npy.lz4",
+    "dataset/shorts2/DSC_0239.MOV/data.npy.lz4",
+    "dataset/shorts2/DSC_0240.MOV/data.npy.lz4",
+    "dataset/shorts2/DSC_0241.MOV/data.npy.lz4",
+    "dataset/shorts2/DSC_0242.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 60,
+   "name": "shortsock0",
+   "paths": [
+    "dataset/shortsock0/DSC_0273.MOV/data.npy.lz4",
+    "dataset/shortsock0/DSC_0274.MOV/data.npy.lz4",
+    "dataset/shortsock0/DSC_0275.MOV/data.npy.lz4",
+    "dataset/shortsock0/DSC_0276.MOV/data.npy.lz4",
+    "dataset/shortsock0/DSC_0277.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 61,
+   "name": "shortsock1",
+   "paths": [
+    "dataset/shortsock1/DSC_0278.MOV/data.npy.lz4",
+    "dataset/shortsock1/DSC_0279.MOV/data.npy.lz4",
+    "dataset/shortsock1/DSC_0280.MOV/data.npy.lz4",
+    "dataset/shortsock1/DSC_0281.MOV/data.npy.lz4",
+    "dataset/shortsock1/DSC_0282.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 62,
+   "name": "shortsock2",
+   "paths": [
+    "dataset/shortsock2/DSC_0283.MOV/data.npy.lz4",
+    "dataset/shortsock2/DSC_0284.MOV/data.npy.lz4",
+    "dataset/shortsock2/DSC_0285.MOV/data.npy.lz4",
+    "dataset/shortsock2/DSC_0286.MOV/data.npy.lz4",
+    "dataset/shortsock2/DSC_0287.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 63,
+   "name": "socketwrench0",
+   "paths": [
+    "dataset/socketwrench0/DSC_0102.MOV/data.npy.lz4",
+    "dataset/socketwrench0/DSC_0103.MOV/data.npy.lz4",
+    "dataset/socketwrench0/DSC_0104.MOV/data.npy.lz4",
+    "dataset/socketwrench0/DSC_0105.MOV/data.npy.lz4",
+    "dataset/socketwrench0/DSC_0106.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 64,
+   "name": "socketwrench1",
+   "paths": [
+    "dataset/socketwrench1/DSC_0107.MOV/data.npy.lz4",
+    "dataset/socketwrench1/DSC_0108.MOV/data.npy.lz4",
+    "dataset/socketwrench1/DSC_0109.MOV/data.npy.lz4",
+    "dataset/socketwrench1/DSC_0110.MOV/data.npy.lz4",
+    "dataset/socketwrench1/DSC_0111.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 65,
+   "name": "socketwrench2",
+   "paths": [
+    "dataset/socketwrench2/DSC_0112.MOV/data.npy.lz4",
+    "dataset/socketwrench2/DSC_0113.MOV/data.npy.lz4",
+    "dataset/socketwrench2/DSC_0114.MOV/data.npy.lz4",
+    "dataset/socketwrench2/DSC_0115.MOV/data.npy.lz4",
+    "dataset/socketwrench2/DSC_0116.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 66,
+   "name": "sportsock0",
+   "paths": [
+    "dataset/sportsock0/DSC_0258.MOV/data.npy.lz4",
+    "dataset/sportsock0/DSC_0259.MOV/data.npy.lz4",
+    "dataset/sportsock0/DSC_0260.MOV/data.npy.lz4",
+    "dataset/sportsock0/DSC_0261.MOV/data.npy.lz4",
+    "dataset/sportsock0/DSC_0262.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 67,
+   "name": "sportsock1",
+   "paths": [
+    "dataset/sportsock1/DSC_0263.MOV/data.npy.lz4",
+    "dataset/sportsock1/DSC_0264.MOV/data.npy.lz4",
+    "dataset/sportsock1/DSC_0265.MOV/data.npy.lz4",
+    "dataset/sportsock1/DSC_0266.MOV/data.npy.lz4",
+    "dataset/sportsock1/DSC_0267.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 68,
+   "name": "sportsock2",
+   "paths": [
+    "dataset/sportsock2/DSC_0268.MOV/data.npy.lz4",
+    "dataset/sportsock2/DSC_0269.MOV/data.npy.lz4",
+    "dataset/sportsock2/DSC_0270.MOV/data.npy.lz4",
+    "dataset/sportsock2/DSC_0271.MOV/data.npy.lz4",
+    "dataset/sportsock2/DSC_0272.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 69,
+   "name": "tangerine0",
+   "paths": [
+    "dataset/tangerine0/DSC_0162.MOV/data.npy.lz4",
+    "dataset/tangerine0/DSC_0163.MOV/data.npy.lz4",
+    "dataset/tangerine0/DSC_0164.MOV/data.npy.lz4",
+    "dataset/tangerine0/DSC_0165.MOV/data.npy.lz4",
+    "dataset/tangerine0/DSC_0166.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 70,
+   "name": "tangerine1",
+   "paths": [
+    "dataset/tangerine1/DSC_0167.MOV/data.npy.lz4",
+    "dataset/tangerine1/DSC_0168.MOV/data.npy.lz4",
+    "dataset/tangerine1/DSC_0169.MOV/data.npy.lz4",
+    "dataset/tangerine1/DSC_0170.MOV/data.npy.lz4",
+    "dataset/tangerine1/DSC_0171.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 71,
+   "name": "tangerine2",
+   "paths": [
+    "dataset/tangerine2/DSC_0172.MOV/data.npy.lz4",
+    "dataset/tangerine2/DSC_0173.MOV/data.npy.lz4",
+    "dataset/tangerine2/DSC_0174.MOV/data.npy.lz4",
+    "dataset/tangerine2/DSC_0175.MOV/data.npy.lz4",
+    "dataset/tangerine2/DSC_0176.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 72,
+   "name": "torxscrewbit0",
+   "paths": [
+    "dataset/torxscrewbit0/DSC_0032.MOV/data.npy.lz4",
+    "dataset/torxscrewbit0/DSC_0033.MOV/data.npy.lz4",
+    "dataset/torxscrewbit0/DSC_0034.MOV/data.npy.lz4",
+    "dataset/torxscrewbit0/DSC_0035.MOV/data.npy.lz4",
+    "dataset/torxscrewbit0/DSC_0036.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 73,
+   "name": "torxscrewbit1",
+   "paths": [
+    "dataset/torxscrewbit1/DSC_0037.MOV/data.npy.lz4",
+    "dataset/torxscrewbit1/DSC_0038.MOV/data.npy.lz4",
+    "dataset/torxscrewbit1/DSC_0039.MOV/data.npy.lz4",
+    "dataset/torxscrewbit1/DSC_0040.MOV/data.npy.lz4",
+    "dataset/torxscrewbit1/DSC_0041.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 74,
+   "name": "torxscrewbit2",
+   "paths": [
+    "dataset/torxscrewbit2/DSC_0042.MOV/data.npy.lz4",
+    "dataset/torxscrewbit2/DSC_0043.MOV/data.npy.lz4",
+    "dataset/torxscrewbit2/DSC_0044.MOV/data.npy.lz4",
+    "dataset/torxscrewbit2/DSC_0045.MOV/data.npy.lz4",
+    "dataset/torxscrewbit2/DSC_0046.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 75,
+   "name": "tshirt0",
+   "paths": [
+    "dataset/tshirt0/DSC_0183.MOV/data.npy.lz4",
+    "dataset/tshirt0/DSC_0184.MOV/data.npy.lz4",
+    "dataset/tshirt0/DSC_0185.MOV/data.npy.lz4",
+    "dataset/tshirt0/DSC_0186.MOV/data.npy.lz4",
+    "dataset/tshirt0/DSC_0187.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 76,
+   "name": "tshirt1",
+   "paths": [
+    "dataset/tshirt1/DSC_0188.MOV/data.npy.lz4",
+    "dataset/tshirt1/DSC_0189.MOV/data.npy.lz4",
+    "dataset/tshirt1/DSC_0190.MOV/data.npy.lz4",
+    "dataset/tshirt1/DSC_0191.MOV/data.npy.lz4",
+    "dataset/tshirt1/DSC_0192.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 77,
+   "name": "tshirt2",
+   "paths": [
+    "dataset/tshirt2/DSC_0193.MOV/data.npy.lz4",
+    "dataset/tshirt2/DSC_0194.MOV/data.npy.lz4",
+    "dataset/tshirt2/DSC_0195.MOV/data.npy.lz4",
+    "dataset/tshirt2/DSC_0196.MOV/data.npy.lz4",
+    "dataset/tshirt2/DSC_0197.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 78,
+   "name": "wrench0",
+   "paths": [
+    "dataset/wrench0/DSC_0011.MOV/data.npy.lz4",
+    "dataset/wrench0/DSC_0012.MOV/data.npy.lz4",
+    "dataset/wrench0/DSC_0013.MOV/data.npy.lz4",
+    "dataset/wrench0/DSC_0014.MOV/data.npy.lz4",
+    "dataset/wrench0/DSC_0015.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 79,
+   "name": "wrench1",
+   "paths": [
+    "dataset/wrench1/DSC_0117.MOV/data.npy.lz4",
+    "dataset/wrench1/DSC_0118.MOV/data.npy.lz4",
+    "dataset/wrench1/DSC_0119.MOV/data.npy.lz4",
+    "dataset/wrench1/DSC_0120.MOV/data.npy.lz4",
+    "dataset/wrench1/DSC_0121.MOV/data.npy.lz4"
+   ]
+  },
+  {
+   "id": 80,
+   "name": "wrench2",
+   "paths": [
+    "dataset/wrench2/DSC_0122.MOV/data.npy.lz4",
+    "dataset/wrench2/DSC_0123.MOV/data.npy.lz4",
+    "dataset/wrench2/DSC_0124.MOV/data.npy.lz4",
+    "dataset/wrench2/DSC_0125.MOV/data.npy.lz4",
+    "dataset/wrench2/DSC_0126.MOV/data.npy.lz4"
+   ]
+  }
+ ]
+]
