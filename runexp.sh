@@ -1,7 +1,7 @@
 set -e
 
 datadir=dataset
-dataurl="https://ndownloader.figshare.com/files/27556151?private_link=e14dd1861c775572eace"
+dataurl="https://ndownloader.figshare.com/files/27568763"
 dataname="embedded.zip"
 if [ -f "$dataname" ] ; then
     echo "dataset '$dataname' already present, skipping download"
