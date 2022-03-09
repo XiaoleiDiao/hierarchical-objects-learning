@@ -1,4 +1,4 @@
-Continual egocentric object recognition
+Continual Hierarchical object recognition
 ==============
 
 The dataset used in available [here](https://figshare.com/s/e14dd1861c775572eace)
