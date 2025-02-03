@@ -115,6 +115,7 @@ python scripts/json_train.py --results results/output.npy.lz4 inputs/sample_conf
 │   ├── fs2desc.py         # Dataset descriptor generator
 │   ├── json_train.py      # Training script
 │   ├── plot_hierarchy.py  # Visualization script
+│   ├── pre_embed.py       # Preprocesses datasets to generate embedded feature representations
 ├── runexp.sh              # Automation script
 └── README.md              # Project documentation
 ```
