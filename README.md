@@ -7,7 +7,7 @@ The dataset used in available [here](https://figshare.com/s/e14dd1861c775572eace
 
 ## Installation
 
-### 1 Create Conda Virtual Environment
+### 1. Create Conda Virtual Environment
 Create a conda environment using the environment file and activate it,
 you will need to install the module libmr manually due to a bug in that module
 
@@ -16,7 +16,7 @@ conda env create -f environment.yml
 conda activate visualsemantics
 ```
 
-### 2 Install Additional Dependencies
+### 2. Install Additional Dependencies
 Ensure the `libmr` library is installed, as it may have compatibility issues:
 
 ```bash
